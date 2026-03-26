@@ -37,7 +37,7 @@ const HeroSection = () => {
         <div className="flex flex-col items-center gap-3 mb-6">
           <div className="flex items-center gap-3">
             <span className="text-xl line-through text-primary-foreground/40">$40.00 USD</span>
-            <span className="text-4xl font-black text-primary font-display">$19.00 USD</span>
+            <span className="text-4xl font-black text-primary font-display">$9.90 USD</span>
           </div>
           <span className="text-sm text-primary-foreground/60">⚡ ¡Últimos <strong>3 cupos</strong> en oferta!</span>
         </div>
