@@ -17,7 +17,7 @@ const FinalCTA = () => {
 
           <div className="my-6 flex items-center justify-center gap-3">
             <span className="text-xl line-through text-primary-foreground/40">$40.00 USD</span>
-            <span className="text-5xl font-black text-primary font-display">$19.00 USD</span>
+            <span className="text-5xl font-black text-primary font-display">$9.90 USD</span>
           </div>
 
           <p className="text-sm text-primary-foreground/60 mb-6">
